@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7bce44c.css",
-    "main.js": "/static/js/main.45c8636a.js",
-    "static/js/787.2b33b14d.chunk.js": "/static/js/787.2b33b14d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.b7bce44c.css.map": "/static/css/main.b7bce44c.css.map",
-    "main.45c8636a.js.map": "/static/js/main.45c8636a.js.map",
-    "787.2b33b14d.chunk.js.map": "/static/js/787.2b33b14d.chunk.js.map"
+    "main.css": "/Mind_Reader/static/css/main.b7bce44c.css",
+    "main.js": "/Mind_Reader/static/js/main.f86eadae.js",
+    "static/js/787.2b33b14d.chunk.js": "/Mind_Reader/static/js/787.2b33b14d.chunk.js",
+    "static/media/logo.svg": "/Mind_Reader/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mind_Reader/index.html",
+    "main.b7bce44c.css.map": "/Mind_Reader/static/css/main.b7bce44c.css.map",
+    "main.f86eadae.js.map": "/Mind_Reader/static/js/main.f86eadae.js.map",
+    "787.2b33b14d.chunk.js.map": "/Mind_Reader/static/js/787.2b33b14d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7bce44c.css",
-    "static/js/main.45c8636a.js"
+    "static/js/main.f86eadae.js"
   ]
 }
